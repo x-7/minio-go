@@ -1,4 +1,4 @@
-module github.com/minio/minio-go/v7
+module github.com/x-7/minio-go/v7
 
 go 1.21
 
